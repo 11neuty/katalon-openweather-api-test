@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_W_002_ValidateStructure</name>
+   <tag>Weather</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd71fdbd-0c14-4fae-b2a8-dada0ec7f67c</testCaseGuid>
+</TestCaseEntity>

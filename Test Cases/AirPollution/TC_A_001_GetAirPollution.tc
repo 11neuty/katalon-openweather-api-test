@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_A_001_GetAirPollution</name>
+   <tag>AirPollution</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6918b09-b8b6-43e1-9c8b-6d9e221cba72</testCaseGuid>
+</TestCaseEntity>

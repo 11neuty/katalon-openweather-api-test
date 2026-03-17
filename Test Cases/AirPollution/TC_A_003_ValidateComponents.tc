@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_A_003_ValidateComponents</name>
+   <tag>AirPollution</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2bb395f-7697-438a-b4ce-02a44faa790f</testCaseGuid>
+</TestCaseEntity>

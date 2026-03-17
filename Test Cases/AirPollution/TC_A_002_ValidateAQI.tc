@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_A_002_ValidateAQI</name>
+   <tag>AirPollution</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>865b5dfa-e14c-475f-9c3b-c12a0778679e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_W_003_DataConsistency</name>
+   <tag>Weather</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbff01ab-bdca-4f11-b66d-a0a07247a476</testCaseGuid>
+</TestCaseEntity>

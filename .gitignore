@@ -1,0 +1,9 @@
+bin/
+Libs/
+Logs/
+.settings/
+*.log
+*.tmp
+*.class
+Reports/*
+!Reports/.gitkeep
