@@ -70,7 +70,7 @@ Setup
    * lat
    * lon
 
-Example
+Example for Jakarta Selatan : 
 lat = -6.2615
 lon = 106.8106
 
